@@ -1,2 +1,2 @@
 # day60
-Today will go on reading the ng-book, this is some demo for it
+Test some angular bootstrap ui thing and re-wite it in john papa style.
